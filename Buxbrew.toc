@@ -1,7 +1,7 @@
 ## Interface: 11200
-## Title: MadAxeBuxbrew
+## Title: Buxbrew
 ## Version: 2.5.5
 ## Notes: Fires one random /emote when you press the configured action slot. 90s cooldown. Commands: /mae slot <n>, watch, emote, info, timer, reset, save, debug
 ## SavedVariablesPerCharacter: MadAxeBuxbrewDB
 
-MadAxeBuxbrew.lua
+Buxbrew.lua
