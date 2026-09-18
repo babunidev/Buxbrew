@@ -1,4 +1,4 @@
--- MadAxeBuxbrew v2.5.5 (Vanilla/Turtle 1.12)
+-- MadAxeBuxbrew v2.5.5 (Vanilla 1.12)
 -- Per-character SavedVariables. Lua 5.0-safe string handling.
 
 -------------------------------------------------
